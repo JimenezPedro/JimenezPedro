@@ -32,7 +32,7 @@ In the world of web development, I bring websites to life by utilizing HTML5 and
 
 ## Connect with Me
 
-I'm always open to collaboration, learning new technologies, and exploring exciting projects. Feel free to connect with me here on GitHub or reach out through [LinkedIn](www.linkedin.com/in/pedro-jiménez-zamorano-5b3825273) to discuss anything from coding to the latest tech trends.
+I'm always open to collaboration, learning new technologies, and exploring exciting projects. Feel free to connect with me here on GitHub or reach out through [LinkedIn](www.linkedin.com/in/pedro-jiménez-zamorano-5b3825273/) to discuss anything from coding to the latest tech trends.
 
 Let's build something amazing together! 🚀
 
