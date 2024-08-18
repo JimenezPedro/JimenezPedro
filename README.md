@@ -8,9 +8,10 @@ Hello there! 👋 I'm Pedro Jiménez, a passionate junior backend developer base
 - Java
 - PHP
 - JavaScript
+- Python
 
 ### Frameworks
-- Spring Boot
+- Spring Framework
 - Laravel
 
 ### Database Management
