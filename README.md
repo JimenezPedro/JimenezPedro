@@ -5,12 +5,14 @@
 Hello there! 👋 I'm Pedro Jiménez, a passionate junior backend developer based in Spain. With a love for coding and problem-solving, I thrive on turning ideas into functional and efficient software solutions. Here's a bit about my technical expertise:
 
 ### Programming Languages
+- C#
 - Java
 - PHP
 - JavaScript
 - Python
 
 ### Frameworks
+- .Net
 - Spring Framework
 - Laravel
 
@@ -22,6 +24,8 @@ Hello there! 👋 I'm Pedro Jiménez, a passionate junior backend developer base
 ### Web Technologies
 - HTML5
 - CSS3
+- Blazor
+- Bootstrap
 
 ## What I Do
 
