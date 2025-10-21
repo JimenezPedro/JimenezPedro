@@ -7,19 +7,16 @@ Hello there! 👋 I'm Pedro Jiménez, a passionate junior backend developer base
 ### Programming Languages
 - C#
 - Java
-- PHP
 - JavaScript
-- Python
+-Python
 
 ### Frameworks
 - .Net
 - Spring Framework
-- Laravel
 
 ### Database Management
 - MySQL
 - Oracle
-- MongoDB
 
 ### Web Technologies
 - HTML5
