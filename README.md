@@ -8,7 +8,7 @@ Hello there! 👋 I'm Pedro Jiménez, a passionate junior backend developer base
 - C#
 - Java
 - JavaScript
--Python
+- Python
 
 ### Frameworks
 - .Net
